@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tripathisarthak15
+- 👋 Hi, I’m Sarthak - @tripathisarthak15
 - 👀 I’m interested in Custom Roms and Kernels.
 - 🌱 I’m currently learning how make a rom for my device.
 - 💞️ I’m looking to collaborate on the same
