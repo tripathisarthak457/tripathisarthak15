@@ -1,20 +1,90 @@
-[
+{
+  "customers": [
     {
-        "customerId": 1,
-        "name": "John Doe",
-        "phone": "1234567890",
-        "amountDue": 1500.00
+      "name": "Amit Kumar",
+      "phoneNumber": "1234567890",
+      "dues": [
+        { "description": "Electricity Bill", "amount": 1200 },
+        { "description": "Water Bill", "amount": 300 },
+        { "description": "Internet Bill", "amount": 500 }
+      ]
     },
     {
-        "customerId": 2,
-        "name": "Jane Smith",
-        "phone": "0987654321",
-        "amountDue": 2500.00
+      "name": "Sunita Sharma",
+      "phoneNumber": "0987654321",
+      "dues": [
+        { "description": "Electricity Bill", "amount": 1000 },
+        { "description": "Internet Bill", "amount": 700 }
+      ]
     },
     {
-        "customerId": 3,
-        "name": "Emily Johnson",
-        "phone": "1122334455",
-        "amountDue": 1000.00
+      "name": "Rahul Verma",
+      "phoneNumber": "9876543210",
+      "dues": [
+        { "description": "Rent", "amount": 8500 },
+        { "description": "Groceries", "amount": 1500 }
+      ]
+    },
+    {
+      "name": "Neha Singh",
+      "phoneNumber": "8765432109",
+      "dues": [
+        { "description": "Electricity Bill", "amount": 900 },
+        { "description": "Water Bill", "amount": 250 },
+        { "description": "Internet Bill", "amount": 600 }
+      ]
+    },
+    {
+      "name": "Vikram Patel",
+      "phoneNumber": "7654321098",
+      "dues": [
+        { "description": "Rent", "amount": 8000 },
+        { "description": "Groceries", "amount": 1200 }
+      ]
+    },
+    {
+      "name": "Priya Gupta",
+      "phoneNumber": "6543210987",
+      "dues": [
+        { "description": "Electricity Bill", "amount": 1100 },
+        { "description": "Internet Bill", "amount": 800 },
+        { "description": "Rent", "amount": 7000 }
+      ]
+    },
+    {
+      "name": "Rohit Mehta",
+      "phoneNumber": "5432109876",
+      "dues": [
+        { "description": "Water Bill", "amount": 400 },
+        { "description": "Internet Bill", "amount": 500 },
+        { "description": "Groceries", "amount": 1300 }
+      ]
+    },
+    {
+      "name": "Sita Rani",
+      "phoneNumber": "4321098765",
+      "dues": [
+        { "description": "Electricity Bill", "amount": 950 },
+        { "description": "Rent", "amount": 9000 }
+      ]
+    },
+    {
+      "name": "Karan Yadav",
+      "phoneNumber": "3210987654",
+      "dues": [
+        { "description": "Internet Bill", "amount": 700 },
+        { "description": "Groceries", "amount": 1500 }
+      ]
+    },
+    {
+      "name": "Anjali Desai",
+      "phoneNumber": "2109876543",
+      "dues": [
+        { "description": "Electricity Bill", "amount": 1150 },
+        { "description": "Water Bill", "amount": 350 },
+        { "description": "Rent", "amount": 7800 }
+      ]
     }
-]
+  ],
+  "banks": ["Axis Bank", "ICICI Bank", "HDFC Bank"]
+}
