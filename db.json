@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "title": "Credit Card 1",
+        "description": "Earn 5% cashback on all transactions.",
+        "rewardPoints": 1500
+    },
+    {
+        "id": 2,
+        "title": "Credit Card 2",
+        "description": "Get exclusive access to events and offers.",
+        "rewardPoints": 2000
+    },
+    {
+        "id": 3,
+        "title": "Credit Card 3",
+        "description": "No annual fee for the first year.",
+        "rewardPoints": 1000
+    },
+    {
+        "id": 4,
+        "title": "Credit Card 4",
+        "description": "Low interest rates on balance transfers.",
+        "rewardPoints": 2500
+    }
+]
